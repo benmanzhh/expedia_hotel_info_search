@@ -6,7 +6,6 @@ import pyodbc
 import pandas as pd
 from urllib.parse import quote_plus
 
-
 # 数据库配置 
 DATABASE = 'daily'
 SERVER = 'xxxxxxxxxs.com'
